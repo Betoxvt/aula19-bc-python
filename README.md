@@ -6,5 +6,5 @@ Vamos criar uma APP WEB completa de CRUD, com:
 - FastAPI: Fazendo meu servidor
 - SQLAlchemy: Sendo meu ORM
 - SQLite: O banco de dados
-- Docker: Conteiner para o deploy
+- Docker: Contêiner para o deploy
 - Render: Host da aplicação
